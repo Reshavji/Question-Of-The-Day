@@ -8,7 +8,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/shareImage.png))
 
 
 ## Questions & Solutions
