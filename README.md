@@ -13,7 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Speed Driving](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Speed%20Driving.java)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
