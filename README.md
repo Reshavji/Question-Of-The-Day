@@ -13,13 +13,14 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
 
+ - [Playing With 2 and 3](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Playing%20with%202%20and%203.java)
  - [Odd-Even Game](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-Even-Game.java)
  - [Speed Driving](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Speed%20Driving.java)
  - [OddSum](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-Even-Game.java)
  - [Left or Right](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Left%20or%20Right.java)
  - [Make it N Rupees](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Make%20it%20N%20rupees.java)
  - [Fine](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Fine.java)
- - [Playing With 2 and 3](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Playing%20with%202%20and%203.java)
+
     
 ## Author
 
