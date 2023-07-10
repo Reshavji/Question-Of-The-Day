@@ -8,17 +8,20 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/shareImage.png)
 
 
 ## Questions & Solutions
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ - [Odd-Even Game](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-Even-Game.java)
+ - [Speed Driving](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Speed%20Driving.java)
+ - [OddSum](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-Even-Game.java)
+ - [Left or Right](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Left%20or%20Right.java)
+ - [Make it N Rupees](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Make%20it%20N%20rupees.java)
+ - [Fine](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Fine.java)
+ 
 
 ## Author
 
-- [@Reshavji](https://www.github.com/octokatherine)
+- [@Reshavji](https://www.github.com/Reshavji)
 
