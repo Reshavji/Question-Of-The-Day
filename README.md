@@ -12,7 +12,8 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 
 ## Questions & Solutions
- 
+            
+ - [IRCTC Rule](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/IRCTC%20Rule.java)
  - [Kiko and Milo](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Kiki%20And%20Milo.js)
  - [Playing With 2 and 3](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Playing%20with%202%20and%203.java)
  - [Odd-Even Game](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-Even-Game.java)
