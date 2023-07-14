@@ -23,7 +23,7 @@ Rahul
 Explanation
 Rahul chooses 2 and subtracts it from N. In Abhilashs' turn N is 0 and there is no odd positive integer less than 0, so he loses. -->
 
-                 Solution
+                            Solution
                  
 import java.io.*; // for handling input/output
 import java.util.*; // contains Collections framework
