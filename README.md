@@ -13,6 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
             
+ - [Min Operations](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Min%20Operations.java)
  - [Odd Even Product](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd%20Even%20Product.java)
  - [IRCTC Rule](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/IRCTC%20Rule.java)
  - [Kiko and Milo](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Kiki%20And%20Milo.js)
