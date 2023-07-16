@@ -13,6 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
            
+- [Count Common 1's]( https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Count%20Common%201's.java)
  - [Count Common 1's]( https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Count%20Common%201's.java)
  - [Min Operations](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Min%20Operations.java)
  - [Odd Even Product](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd%20Even%20Product.java)
