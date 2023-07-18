@@ -12,7 +12,8 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 
 ## Questions & Solutions
-
+ 
+-  [Sum or Product](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Sum%20or%20Product.java)
 -  [Burger Distribution](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Burger%20Distribution.java)           
 -  [Count Different Bits](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Count%20Different%20Bits.java)
  - [Count Common 1's](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Count%20Common%201's.java)
