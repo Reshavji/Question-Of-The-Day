@@ -13,6 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
  
+ -  [Coin Distribution](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Coin%20Distribution)
 -  [Birthday Party](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Birthday%20Party.java)                           
 -  [Sum or Product](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Sum%20or%20Product.java)
 -  [Burger Distribution](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Burger%20Distribution.java)           
