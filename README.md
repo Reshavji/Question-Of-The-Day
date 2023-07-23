@@ -13,6 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
    
+-  [Odd-sum](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-sum.java)
 -  [Read the Number](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Read%20the%20Number.java)
 -  [Fare Ride](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Fare%20Ride.java)
 -  [Coin Distribution](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Coin%20Distribution)
