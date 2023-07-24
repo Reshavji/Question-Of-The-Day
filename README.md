@@ -13,7 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
    
--  [Sale on Clothes](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-sum.java)
+-  [Sale on Clothes](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Sale%20on%20Clothes.java)
 -  [Odd-sum](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Odd-sum.java)
 -  [Read the Number](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Read%20the%20Number.java)
 -  [Fare Ride](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Fare%20Ride.java)
