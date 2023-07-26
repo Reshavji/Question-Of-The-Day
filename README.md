@@ -13,7 +13,6 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
    
-   
 -  [Birthday Gift](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Birthday%20Gift.java)
 -  [Mighty 7](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Mighty%207.java)
 -  [Sale on Clothes](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Sale%20on%20Clothes.java)
