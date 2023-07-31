@@ -14,8 +14,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 ## Questions & Solutions
 
        
--  [XOR of even divisors](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/XOR%20of%20even%20divisors.java)   
--  [Yash and money](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Yash%20and%20money.java)   
+-  [XOR of even divisors](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/XOR%20of%20even%20divisors.java)                                                         -  [Yash and money](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Yash%20and%20money.java)   
 -  [Not- Divisible](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Not-%20Divisible.java)   
 -  [Distinct GCD](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Distinct%20GCD.java)   
 -  [Frequency LCM](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Frequency%20LCM.java)
