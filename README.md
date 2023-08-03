@@ -13,8 +13,10 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
 
-Candy Robbery Unique Consonants
-    Wondering Yash
+ 
+-  [Unique Consonants](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Unique%20Consonants.java) 
+-  [Candy Robbery](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Candy%20Robbery.java)  
+-  [Wondering Yash](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Wondering%20Yash.java)
 -  [XOR of even divisors](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/XOR%20of%20even%20divisors.java)   
 -  [Yash and money](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Yash%20and%20money.java)   
 -  [Not- Divisible](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Not-%20Divisible.java)   
