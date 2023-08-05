@@ -12,8 +12,8 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 
 ## Questions & Solutions
-
- Unique Vowels
+PM Laptop Yojna
+ Unique Vowels https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Unique%20Vowels.java
 -  [Unique Consonants](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Unique%20Consonants.java) 
 -  [Candy Robbery](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Candy%20Robbery.java)  
 -  [Wondering Yash](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Wondering%20Yash.java)
