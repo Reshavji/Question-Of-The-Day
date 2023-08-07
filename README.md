@@ -13,7 +13,7 @@ Through this initiative, Newton School aims to foster a collaborative learning e
 
 ## Questions & Solutions
 
--  [Ram's average speed](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/PM%20Laptop%20Yojna.java) 
+-  [Ram's average speed](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Ram's%20average%20speed.java) 
 -  [PM Laptop Yojna](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/PM%20Laptop%20Yojna.java) 
 -  [Unique Vowels](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Unique%20Vowels.java) 
 -  [Unique Consonants](https://github.com/Reshavji/Question-Of-The-Day/blob/main/Newton/Unique%20Consonants.java) 
